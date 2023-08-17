@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704553798632",
+    "project_id": "my-mall-42e60",
+    "storage_bucket": "my-mall-42e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704553798632:android:6e1592fcdce28273dc325d",
+        "android_client_info": {
+          "package_name": "rahul.cyntech.mymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704553798632-u7lfdl5u9l7fpja6mkkmld8qqo2fr90o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUq1n08SUl4sC073X3mzgVRdOyAY9OBBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704553798632-u7lfdl5u9l7fpja6mkkmld8qqo2fr90o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
